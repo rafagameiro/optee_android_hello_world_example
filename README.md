@@ -59,7 +59,13 @@ $ adb shell chmod 644 /system/app/ filename.apk
 $ adb reboot
 ```
 
-Finally, you can disconnect the board from your computer and run the app. If everything was correctly done, the app should run just fine, and the OP-TEE Hello World example must output something in your display.
+Finally, you can disconnect the board from your computer and run the app. If everything was correctly done, you can see your new app in the Android menu like the following figure,
+
+  ![Alt text](https://i.imgur.com/pTSW3pn.png "Android Menu")
+
+, and running the app, it must output something similar to this in your display:
+
+  ![Alt text](https://i.imgur.com/1a9rnxf.png "App Output")
 
 ### References
 
