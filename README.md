@@ -65,7 +65,7 @@ Finally, you can disconnect the board from your computer and run the app. If eve
 
  and running the app, it must output something similar to this in your display:
 
-  ![Alt text](https://imgur.com/QsfIPrD "App Output")
+  ![Alt text](https://i.imgur.com/QsfIPrD.png "App Output")
 
 ### References
 
