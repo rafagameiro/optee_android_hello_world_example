@@ -9,7 +9,7 @@
  
 ## Procedure
  
-### AOSP+OP-TEE Setup
+### AOSP + OP-TEE Setup
  
 Follow the OP-TEE official documentation at https://optee.readthedocs.io/en/latest/building/aosp/aosp.html
  
@@ -49,7 +49,7 @@ With this, you can build your app and generate an apk. The next step should be i
 
 #### Installation
 
-To run the App in the AOSP+OPTEE system successfully you need to install the app as a system app, otherwise the application will not be able to communicate with OP-TEE. To do this, you must type the following set of commands:
+To run the App in the AOSP + OP-TEE system successfully you need to install the app as a system app, otherwise the application will not be able to communicate with OP-TEE. To do this, you must type the following set of commands:
 
 ```sh
 $ adb root
